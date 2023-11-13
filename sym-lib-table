@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name AutoUSB-KIT-v6-rescue)(type Legacy)(uri ${KIPRJMOD}/AutoUSB-KIT-v6-rescue.lib)(options "")(descr ""))
+)
